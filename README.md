@@ -1,5 +1,5 @@
 <h2 align="center">
-Hi, I'm Jess 👋
+Hi there! I'm Jess 👋
 </h2>
 
 <p align="center">
@@ -8,12 +8,15 @@ Hi, I'm Jess 👋
 
 <div align="left">
 
-## 😺&nbsp;&nbsp; About me
-I have finished the Common Core Program at [<img src="https://img.shields.io/badge/Paris-blue?style=for-the-badge&logo=42&logoColor=white&logoSize=auto&labelColor=black" height="20em" align="center" alt="School 42" title="School 42"/>](https://42.fr/en/homepage/)
+## 😺&nbsp;&nbsp;About me
+- 💻 Completed the Common Core Program at [<img src="https://img.shields.io/badge/Paris-blue?style=for-the-badge&logo=42&logoColor=white&logoSize=auto&labelColor=black" height="20em" align="top" alt="School 42" title="School 42"/>](https://42.fr/en/homepage/)
+- 🧗‍♀️ Climbs way too much
+- 🎤 Never misses an opportunity to do karaoke
+- 🎯 Open to collaborate in **Software Development** / **Full-stack Development**
 
 <div align="right">
 
-## 📫 &nbsp;&nbsp; How to reach me
+## 💌&nbsp;&nbsp;Contact me
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="25em" align="center" alt="Follow Jessica Rouillon on LinkedIn" title="Follow Jessica Rouillon on LinkedIn"/>](https://www.linkedin.com/in/jessicarouillon)&nbsp;&nbsp;
 [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="25em" align="center" alt="Email Jessica Rouillon" title="Email Jessica Rouillon"/>](mailto:jessica.rouillon.tech@gmail.com)
 
