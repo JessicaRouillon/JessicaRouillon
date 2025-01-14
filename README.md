@@ -1,5 +1,5 @@
 <h2 align="center">
-Hi there! I'm Jess 👋
+Hi ! I'm Jess 👋
 </h2>
 
 <!-- Automatically appear text -->
@@ -16,8 +16,16 @@ About me
     <img src="https://cdn-icons-png.flaticon.com/128/3163/3163658.png" alt="Rock Climbing" width="50" height="50">
     <img src="https://cdn-icons-png.flaticon.com/128/2159/2159722.png" alt="Singing" width="50" height="50">
     <img src="https://cdn-icons-png.flaticon.com/128/1623/1623786.png" alt="Food Lover" width="50" height="50">
-    <img src="http://www.info-jeunesse16.com/images/ImagesUpload/actus/3719-2320.jpg" alt="School 42" width="75" height"75">
-</p>
+    <a href="https://42.fr/en/homepage/">
+        <img src="https://raw.githubusercontent.com/stormphlegyas/vscode-42header/master/42.png" alt="School 42" width="50" height="50">
+    </a>
+</p><br>
+
+<div align="center">
+
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="25em" align="center" alt="Follow Jessica Rouillon on LinkedIn" title="Follow Jessica Rouillon on LinkedIn"/>](https://www.linkedin.com/in/jessicarouillon)&nbsp;&nbsp;
+[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="25em" align="center" alt="Email Jessica Rouillon" title="Email Jessica Rouillon"/>](mailto:jessica.rouillon.tech@gmail.com)
+
 
 ---
 
@@ -34,7 +42,6 @@ Languages
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="Bash" width="50" height="50" title="Bash">
 </p>
 
----
 
 <!-- Tools -->
 <h3 align="center">
@@ -50,6 +57,7 @@ Tools
   <img src="https://cdn-icons-png.flaticon.com/128/4494/4494748.png" alt="Git" width="50" height="50" title="Git">
   <img src="https://cdn-icons-png.flaticon.com/128/919/919856.png" alt="Nginx" width="50" height="50" title="Nginx">
   <img src="https://cdn-icons-png.flaticon.com/128/174/174881.png" alt="WordPress" width="50" height="50" title="WordPress">
+  <img src="https://cdn-icons-png.flaticon.com/128/5920/5920993.png" alt="VirtualMachine" width="50" height="50" title="VirtualMachine">
 </p>
 
 <!-- Databases, Frameworks, OS table -->
@@ -76,13 +84,6 @@ Tools
   </tr>
 </table>
 </div>
-
-
-<div align="center">
-
-## Contact me
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="25em" align="center" alt="Follow Jessica Rouillon on LinkedIn" title="Follow Jessica Rouillon on LinkedIn"/>](https://www.linkedin.com/in/jessicarouillon)&nbsp;&nbsp;
-[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="25em" align="center" alt="Email Jessica Rouillon" title="Email Jessica Rouillon"/>](mailto:jessica.rouillon.tech@gmail.com)
 
 
 <!--
